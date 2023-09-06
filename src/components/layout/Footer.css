@@ -1,0 +1,10 @@
+#footer {
+    background: green;
+    display: flex;
+    justify-content: center;
+    margin-top: 85.7vw;
+}
+
+#footer h1{
+    margin: 0
+}
