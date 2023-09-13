@@ -3,8 +3,8 @@ import Header from "@/components/layout/Header"
 const QuemSomos = () => {
   return (
     <>
-      <Header />
-      <h1>Bem vindo ao Quem Somos!</h1>
+    <Header/>
+    <h1>Quem seremos</h1>
     </>
   )
 }
