@@ -8,9 +8,9 @@ const Contato = () => {
     <>
         <Header />
         <h1>Contato</h1>
-        <Button titulo="Login"/> 
-        <Button titulo="Cadastre-se"/>
-        <Button titulo="Cancelar"/>
+        <Button variant="primary" title="Login"/> 
+        <Button variant="secondary" title="Cadastre-se"/>
+        <Button variant="ghost" title="Cancelar"/>
     </>
   )
 }

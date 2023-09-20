@@ -1,8 +1,8 @@
-import'./Button.css'
+import './Button.css'
 
 const Button = ({variant, title}) => {
   return (
-        <button className={variant}>{title}</button>
+    <button className={variant}>{title}</button>
   )
 }
 
